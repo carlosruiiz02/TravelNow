@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/775401261.jpg?k=d5b8fc378c300e894b112fc4919505bf413b5b37598f8bc8fd810509ae59eff4&o=",
+    "nombre": "Hotel Imperial Resort",
+    "descripcion": "Un refugio de lujo y confort en el corazón de Sincelejo, con instalaciones de primera clase y atención personalizada.",
+    "ciudad": "Sincelejo",
+    "precio_por_noche": 387000,
+    "habitaciones_disponibles": 91,
+    "calificacion": 4.7
+  },
+  {
+    "id": 2,
+    "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/429693590.jpg?k=df276e24d72f971df08502064dbb15c4f9087983bc5f68e7692263f56015d960&o=",
+    "nombre": "Hotel Plaza Hotel & Spa",
+    "descripcion": "Experimenta la hospitalidad colombiana en su máxima expresión. Ubicado estratégicamente en Quibdó, ideal para viajeros de negocios y turismo.",
+    "ciudad": "Quibdó",
+    "precio_por_noche": 370000,
+    "habitaciones_disponibles": 106,
+    "calificacion": 1.3
+  },
+  {
+    "id": 3,
+    "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280704851.jpg?k=01a109d6565fadaeca692533809d6cddedba6e38815ce4678523f8238fb9b820&o=",
+    "nombre": "Hotel Nativo Lodge",
+    "descripcion": "Situado en pleno centro de Cúcuta, ofrecemos la combinación perfecta entre comodidad, estilo y accesibilidad a los principales atractivos.",
+    "ciudad": "Cúcuta",
+    "precio_por_noche": 589000,
+    "habitaciones_disponibles": 79,
+    "calificacion": 3.5
+  },
+  {
+    "id": 4,
+    "imagen": "https://picsum.photos/seed/hotel4/600/400",
+    "nombre": "Hotel Cielo Hotel & Resort",
+    "descripcion": "Un refugio de lujo y confort en el corazón de Armenia, con instalaciones de primera clase y atención personalizada.",
+    "ciudad": "Armenia",
+    "precio_por_noche": 804000,
+    "habitaciones_disponibles": 36,
+    "calificacion": 1.4
+  },
+  {
+    "id": 5,
+    "imagen": "https://picsum.photos/seed/hotel5/600/400",
+    "nombre": "Hotel Premier Suites",
+    "descripcion": "Experimenta la hospitalidad colombiana en su máxima expresión. Ubicado estratégicamente en Montería, ideal para viajeros de negocios y turismo.",
+    "ciudad": "Montería",
+    "precio_por_noche": 135000,
+    "habitaciones_disponibles": 117,
+    "calificacion": 2.7
+  },
+  {
+    "id": 6,
+    "imagen": "https://picsum.photos/seed/hotel6/600/400",
+    "nombre": "Hotel Royal Collection",
+    "descripcion": "Encantador hotel ubicado en la zona más exclusiva de Santa Marta, combinando arquitectura moderna con el calor de la cultura local.",
+    "ciudad": "Santa Marta",
+    "precio_por_noche": 567000,
+    "habitaciones_disponibles": 110,
+    "calificacion": 3.7
+  },
+  {
+    "id": 7,
+    "imagen": "https://picsum.photos/seed/hotel7/600/400",
+    "nombre": "Hotel Azul Resort",
+    "descripcion": "Hotel boutique en San Andrés con diseño único y exclusivo. Cada habitación cuenta una historia diferente en un ambiente íntimo y sofisticado.",
+    "ciudad": "San Andrés",
+    "precio_por_noche": 274000,
+    "habitaciones_disponibles": 114,
+    "calificacion": 1.9
+  },
+  {
+    "id": 8,
+    "imagen": "https://picsum.photos/seed/hotel8/600/400",
+    "nombre": "Hotel Paraíso Resort",
+    "descripcion": "Hotel de categoría superior en San Andrés con piscina, spa, restaurante gourmet y todas las comodidades para una experiencia premium.",
+    "ciudad": "San Andrés",
+    "precio_por_noche": 255000,
+    "habitaciones_disponibles": 12,
+    "calificacion": 2.4
+  },
+  {
+    "id": 9,
+    "imagen": "https://picsum.photos/seed/hotel9/600/400",
+    "nombre": "Hotel Heritage Hotel & Resort",
+    "descripcion": "Hotel boutique en Manizales con diseño único y exclusivo. Cada habitación cuenta una historia diferente en un ambiente íntimo y sofisticado.",
+    "ciudad": "Manizales",
+    "precio_por_noche": 565000,
+    "habitaciones_disponibles": 46,
+    "calificacion": 3.0
+  },
+  {
+    "id": 10,
+    "imagen": "https://picsum.photos/seed/hotel10/600/400",
+    "nombre": "Hotel Cielo Resort",
+    "descripcion": "Experimenta la hospitalidad colombiana en su máxima expresión. Ubicado estratégicamente en Sincelejo, ideal para viajeros de negocios y turismo.",
+    "ciudad": "Sincelejo",
+    "precio_por_noche": 381000,
+    "habitaciones_disponibles": 16,
+    "calificacion": 4.0
+  },
+  {
+    "id": 11,
+    "imagen": "https://picsum.photos/seed/hotel11/600/400",
+    "nombre": "Hotel Cristal Hotel Boutique",
+    "descripcion": "Un refugio de lujo y confort en el corazón de Cali, con instalaciones de primera clase y atención personalizada.",
+    "ciudad": "Cali",
+    "precio_por_noche": 389000,
+    "habitaciones_disponibles": 23,
+    "calificacion": 3.5
+  },
+  {
+    "id": 12,
+    "imagen": "https://picsum.photos/seed/hotel12/600/400",
+    "nombre": "Hotel Royal Hotel & Resort",
+    "descripcion": "Experimenta la hospitalidad colombiana en su máxima expresión. Ubicado estratégicamente en Pasto, ideal para viajeros de negocios y turismo.",
+    "ciudad": "Pasto",
+    "precio_por_noche": 434000,
+    "habitaciones_disponibles": 52,
+    "calificacion": 4.6
+  },
+  {
+    "id": 13,
+    "imagen": "https://picsum.photos/seed/hotel13/600/400",
+    "nombre": "Hotel Grand Suites",
+    "descripcion": "Hotel de categoría superior en Sincelejo con piscina, spa, restaurante gourmet y todas las comodidades para una experiencia premium.",
+    "ciudad": "Sincelejo",
+    "precio_por_noche": 274000,
+    "habitaciones_disponibles": 63,
+    "calificacion": 3.0
+  },
+  {
+    "id": 14,
+    "imagen": "https://picsum.photos/seed/hotel14/600/400",
+    "nombre": "Hotel Vista Hotel & Resort",
+    "descripcion": "Tu mejor opción en Popayán para negocios o vacaciones. Contamos con modernas instalaciones, wifi de alta velocidad y servicio 24/7.",
+    "ciudad": "Popayán",
+    "precio_por_noche": 209000,
+    "habitaciones_disponibles": 58,
+    "calificacion": 2.6
+  },
+  {
+    "id": 15,
+    "imagen": "https://picsum.photos/seed/hotel15/600/400",
+    "nombre": "Hotel Azul Inn",
+    "descripcion": "Situado en pleno centro de Riohacha, ofrecemos la combinación perfecta entre comodidad, estilo y accesibilidad a los principales atractivos.",
+    "ciudad": "Riohacha",
+    "precio_por_noche": 120000,
+    "habitaciones_disponibles": 113,
+    "calificacion": 2.2
+  },
+  {
+    "id": 16,
+    "imagen": "https://picsum.photos/seed/hotel16/600/400",
+    "nombre": "Hotel Luxury Lodge",
+    "descripcion": "Encantador hotel ubicado en la zona más exclusiva de Barranquilla, combinando arquitectura moderna con el calor de la cultura local.",
+    "ciudad": "Barranquilla",
+    "precio_por_noche": 454000,
+    "habitaciones_disponibles": 118,
+    "calificacion": 3.1
+  },
+  {
+    "id": 17,
+    "imagen": "https://picsum.photos/seed/hotel17/600/400",
+    "nombre": "Hotel Sunrise Collection",
+    "descripcion": "Situado en pleno centro de Barranquilla, ofrecemos la combinación perfecta entre comodidad, estilo y accesibilidad a los principales atractivos.",
+    "ciudad": "Barranquilla",
+    "precio_por_noche": 701000,
+    "habitaciones_disponibles": 76,
+    "calificacion": 3.7
+  },
+  {
+    "id": 18,
+    "imagen": "https://picsum.photos/seed/hotel18/600/400",
+    "nombre": "Hotel Premier Lodge",
+    "descripcion": "Encantador hotel ubicado en la zona más exclusiva de Armenia, combinando arquitectura moderna con el calor de la cultura local.",
+    "ciudad": "Armenia",
+    "precio_por_noche": 195000,
+    "habitaciones_disponibles": 119,
+    "calificacion": 3.4
+  },
+  {
+    "id": 19,
+    "imagen": "https://picsum.photos/seed/hotel19/600/400",
+    "nombre": "Hotel Esmeralda Hotel & Spa",
+    "descripcion": "Con más de 20 años de experiencia en hospitalidad, nuestro hotel en Cartagena es sinónimo de calidad, confianza y servicio excepcional.",
+    "ciudad": "Cartagena",
+    "precio_por_noche": 192000,
+    "habitaciones_disponibles": 44,
+    "calificacion": 2.7
+  },
+  {
+    "id": 20,
+    "imagen": "https://picsum.photos/seed/hotel20/600/400",
+    "nombre": "Hotel Quinta Inn",
+    "descripcion": "Experimenta la hospitalidad colombiana en su máxima expresión. Ubicado estratégicamente en Leticia, ideal para viajeros de negocios y turismo.",
+    "ciudad": "Leticia",
+    "precio_por_noche": 794000,
+    "habitaciones_disponibles": 11,
+    "calificacion": 1.5
+  },
+  {
+    "id": 21,
+    "imagen": "https://picsum.photos/seed/hotel21/600/400",
+    "nombre": "Hotel Quinta Hotel & Resort",
+    "descripcion": "Hotel boutique en Neiva con diseño único y exclusivo. Cada habitación cuenta una historia diferente en un ambiente íntimo y sofisticado.",
+    "ciudad": "Neiva",
+    "precio_por_noche": 359000,
+    "habitaciones_disponibles": 66,
+    "calificacion": 1.3
+  },
+  {
+    "id": 22,
+    "imagen": "https://picsum.photos/seed/hotel22/600/400",
+    "nombre": "Hotel Mirador Hotel",
+    "descripcion": "Hotel de categoría superior en Manizales con piscina, spa, restaurante gourmet y todas las comodidades para una experiencia premium.",
+    "ciudad": "Manizales",
+    "precio_por_noche": 389000,
+    "habitaciones_disponibles": 7,
+    "calificacion": 4.6
+  },
+  {
+    "id": 23,
+    "imagen": "https://picsum.photos/seed/hotel23/600/400",
+    "nombre": "Hotel Hacienda Inn",
+    "descripcion": "Hotel boutique en Montería con diseño único y exclusivo. Cada habitación cuenta una historia diferente en un ambiente íntimo y sofisticado.",
+    "ciudad": "Montería",
+    "precio_por_noche": 698000,
+    "habitaciones_disponibles": 9,
+    "calificacion": 1.1
+  },
+  {
+    "id": 24,
+    "imagen": "https://picsum.photos/seed/hotel24/600/400",
+    "nombre": "Hotel Paraíso Hotel & Resort",
+    "descripcion": "Situado en pleno centro de Quibdó, ofrecemos la combinación perfecta entre comodidad, estilo y accesibilidad a los principales atractivos.",
+    "ciudad": "Quibdó",
+    "precio_por_noche": 524000,
+    "habitaciones_disponibles": 15,
+    "calificacion": 3.5
+  },
+  {
+    "id": 25,
+    "imagen": "https://picsum.photos/seed/hotel25/600/400",
+    "nombre": "Hotel Sunrise Hotel & Spa",
+    "descripcion": "Situado en pleno centro de Riohacha, ofrecemos la combinación perfecta entre comodidad, estilo y accesibilidad a los principales atractivos.",
+    "ciudad": "Riohacha",
+    "precio_por_noche": 118000,
+    "habitaciones_disponibles": 56,
+    "calificacion": 4.3
+  },
+  {
+    "id": 26,
+    "imagen": "https://picsum.photos/seed/hotel26/600/400",
+    "nombre": "Hotel Plaza Resort",
+    "descripcion": "Hotel boutique en Ibagué con diseño único y exclusivo. Cada habitación cuenta una historia diferente en un ambiente íntimo y sofisticado.",
+    "ciudad": "Ibagué",
+    "precio_por_noche": 543000,
+    "habitaciones_disponibles": 93,
+    "calificacion": 2.5
+  },
+  {
+    "id": 27,
+    "imagen": "https://picsum.photos/seed/hotel27/600/400",
+    "nombre": "Hotel Elite Hotel Boutique",
+    "descripcion": "Disfruta de vistas panorámicas espectaculares y habitaciones elegantemente decoradas en Ibagué. Perfecto para una estadía inolvidable.",
+    "ciudad": "Ibagué",
+    "precio_por_noche": 107000,
+    "habitaciones_disponibles": 51,
+    "calificacion": 2.9
+  },
+  {
+    "id": 28,
+    "imagen": "https://picsum.photos/seed/hotel28/600/400",
+    "nombre": "Hotel Coral Suites",
+    "descripcion": "Descubre el encanto y la elegancia de nuestro hotel en Montería. Habitaciones espaciosas, desayuno incluido y atención de lujo.",
+    "ciudad": "Montería",
+    "precio_por_noche": 540000,
+    "habitaciones_disponibles": 114,
+    "calificacion": 4.3
+  },
+  {
+    "id": 29,
+    "imagen": "https://picsum.photos/seed/hotel29/600/400",
+    "nombre": "Hotel Boutique Hotel Boutique",
+    "descripcion": "Experimenta la hospitalidad colombiana en su máxima expresión. Ubicado estratégicamente en San Andrés, ideal para viajeros de negocios y turismo.",
+    "ciudad": "San Andrés",
+    "precio_por_noche": 460000,
+    "habitaciones_disponibles": 72,
+    "calificacion": 1.4
+  },
+  {
+    "id": 30,
+    "imagen": "https://picsum.photos/seed/hotel30/600/400",
+    "nombre": "Hotel Azul Hotel",
+    "descripcion": "Descubre el encanto y la elegancia de nuestro hotel en Armenia. Habitaciones espaciosas, desayuno incluido y atención de lujo.",
+    "ciudad": "Armenia",
+    "precio_por_noche": 754000,
+    "habitaciones_disponibles": 88,
+    "calificacion": 4.8
+  },
+  {
+    "id": 31,
+    "imagen": "https://picsum.photos/seed/hotel31/600/400",
+    "nombre": "Hotel Cielo Hotel",
+    "descripcion": "Hotel de categoría superior en Cali con piscina, spa, restaurante gourmet y todas las comodidades para una experiencia premium.",
+    "ciudad": "Cali",
+    "precio_por_noche": 838000,
+    "habitaciones_disponibles": 81,
+    "calificacion": 4.0
+  },
+  {
+    "id": 32,
+    "imagen": "https://picsum.photos/seed/hotel32/600/400",
+    "nombre": "Hotel Sereno Boutique Hotel",
+    "descripcion": "Disfruta de vistas panorámicas espectaculares y habitaciones elegantemente decoradas en Cúcuta. Perfecto para una estadía inolvidable.",
+    "ciudad": "Cúcuta",
+    "precio_por_noche": 637000,
+    "habitaciones_disponibles": 94,
+    "calificacion": 1.4
+  },
+  {
+    "id": 33,
+    "imagen": "https://picsum.photos/seed/hotel33/600/400",
+    "nombre": "Hotel Pacific Suites",
+    "descripcion": "Tu mejor opción en Bucaramanga para negocios o vacaciones. Contamos con modernas instalaciones, wifi de alta velocidad y servicio 24/7.",
+    "ciudad": "Bucaramanga",
+    "precio_por_noche": 181000,
+    "habitaciones_disponibles": 22,
+    "calificacion": 2.3
+  },
+  {
+    "id": 34,
+    "imagen": "https://picsum.photos/seed/hotel34/600/400",
+    "nombre": "Hotel Pacific Boutique Hotel",
+    "descripcion": "Situado en pleno centro de Bucaramanga, ofrecemos la combinación perfecta entre comodidad, estilo y accesibilidad a los principales atractivos.",
+    "ciudad": "Bucaramanga",
+    "precio_por_noche": 802000,
+    "habitaciones_disponibles": 78,
+    "calificacion": 1.1
+  },
+  {
+    "id": 35,
+    "imagen": "https://picsum.photos/seed/hotel35/600/400",
+    "nombre": "Hotel Sunrise Lodge",
+    "descripcion": "Hotel de categoría superior en Pereira con piscina, spa, restaurante gourmet y todas las comodidades para una experiencia premium.",
+    "ciudad": "Pereira",
+    "precio_por_noche": 652000,
+    "habitaciones_disponibles": 42,
+    "calificacion": 4.9
+  },
+  {
+    "id": 36,
+    "imagen": "https://picsum.photos/seed/hotel36/600/400",
+    "nombre": "Hotel Heritage Hotel",
+    "descripcion": "Un refugio de lujo y confort en el corazón de Tunja, con instalaciones de primera clase y atención personalizada.",
+    "ciudad": "Tunja",
+    "precio_por_noche": 426000,
+    "habitaciones_disponibles": 106,
+    "calificacion": 1.7
+  },
+  {
+    "id": 37,
+    "imagen": "https://picsum.photos/seed/hotel37/600/400",
+    "nombre": "Hotel Quinta Hotel Boutique",
+    "descripcion": "Hotel boutique en Ibagué con diseño único y exclusivo. Cada habitación cuenta una historia diferente en un ambiente íntimo y sofisticado.",
+    "ciudad": "Ibagué",
+    "precio_por_noche": 117000,
+    "habitaciones_disponibles": 6,
+    "calificacion": 2.2
+  },
+  {
+    "id": 38,
+    "imagen": "https://picsum.photos/seed/hotel38/600/400",
+    "nombre": "Hotel Boutique Hotel & Spa",
+    "descripcion": "Tu mejor opción en Bucaramanga para negocios o vacaciones. Contamos con modernas instalaciones, wifi de alta velocidad y servicio 24/7.",
+    "ciudad": "Bucaramanga",
+    "precio_por_noche": 80000,
+    "habitaciones_disponibles": 48,
+    "calificacion": 4.0
+  },
+  {
+    "id": 39,
+    "imagen": "https://picsum.photos/seed/hotel39/600/400",
+    "nombre": "Hotel Caribe Hotel & Resort",
+    "descripcion": "Con más de 20 años de experiencia en hospitalidad, nuestro hotel en Popayán es sinónimo de calidad, confianza y servicio excepcional.",
+    "ciudad": "Popayán",
+    "precio_por_noche": 150000,
+    "habitaciones_disponibles": 51,
+    "calificacion": 4.3
+  },
+  {
+    "id": 40,
+    "imagen": "https://picsum.photos/seed/hotel40/600/400",
+    "nombre": "Hotel Real Hotel Boutique",
+    "descripcion": "Encantador hotel ubicado en la zona más exclusiva de Cartagena, combinando arquitectura moderna con el calor de la cultura local.",
+    "ciudad": "Cartagena",
+    "precio_por_noche": 757000,
+    "habitaciones_disponibles": 19,
+    "calificacion": 1.8
+  },
+  {
+    "id": 41,
+    "imagen": "https://picsum.photos/seed/hotel41/600/400",
+    "nombre": "Hotel Real Boutique Hotel",
+    "descripcion": "Hotel boutique en Popayán con diseño único y exclusivo. Cada habitación cuenta una historia diferente en un ambiente íntimo y sofisticado.",
+    "ciudad": "Popayán",
+    "precio_por_noche": 459000,
+    "habitaciones_disponibles": 19,
+    "calificacion": 2.4
+  },
+  {
+    "id": 42,
+    "imagen": "https://picsum.photos/seed/hotel42/600/400",
+    "nombre": "Hotel Grand Hotel Boutique",
+    "descripcion": "Hotel de categoría superior en Valledupar con piscina, spa, restaurante gourmet y todas las comodidades para una experiencia premium.",
+    "ciudad": "Valledupar",
+    "precio_por_noche": 234000,
+    "habitaciones_disponibles": 21,
+    "calificacion": 2.9
+  },
+  {
+    "id": 43,
+    "imagen": "https://picsum.photos/seed/hotel43/600/400",
+    "nombre": "Hotel Premier Hotel & Resort",
+    "descripcion": "Encantador hotel ubicado en la zona más exclusiva de San Andrés, combinando arquitectura moderna con el calor de la cultura local.",
+    "ciudad": "San Andrés",
+    "precio_por_noche": 764000,
+    "habitaciones_disponibles": 30,
+    "calificacion": 1.5
+  },
+  {
+    "id": 44,
+    "imagen": "https://picsum.photos/seed/hotel44/600/400",
+    "nombre": "Hotel Luxury Suites",
+    "descripcion": "Descubre el encanto y la elegancia de nuestro hotel en Neiva. Habitaciones espaciosas, desayuno incluido y atención de lujo.",
+    "ciudad": "Neiva",
+    "precio_por_noche": 259000,
+    "habitaciones_disponibles": 77,
+    "calificacion": 1.4
+  },
+  {
+    "id": 45,
+    "imagen": "https://picsum.photos/seed/hotel45/600/400",
+    "nombre": "Hotel Royal Hotel",
+    "descripcion": "Tu mejor opción en Popayán para negocios o vacaciones. Contamos con modernas instalaciones, wifi de alta velocidad y servicio 24/7.",
+    "ciudad": "Popayán",
+    "precio_por_noche": 128000,
+    "habitaciones_disponibles": 54,
+    "calificacion": 3.4
+  },
+  {
+    "id": 46,
+    "imagen": "https://picsum.photos/seed/hotel46/600/400",
+    "nombre": "Hotel Cielo Suites",
+    "descripcion": "Disfruta de vistas panorámicas espectaculares y habitaciones elegantemente decoradas en Valledupar. Perfecto para una estadía inolvidable.",
+    "ciudad": "Valledupar",
+    "precio_por_noche": 784000,
+    "habitaciones_disponibles": 36,
+    "calificacion": 2.4
+  },
+  {
+    "id": 47,
+    "imagen": "https://picsum.photos/seed/hotel47/600/400",
+    "nombre": "Hotel Nativo Resort",
+    "descripcion": "Experimenta la hospitalidad colombiana en su máxima expresión. Ubicado estratégicamente en Bogotá, ideal para viajeros de negocios y turismo.",
+    "ciudad": "Bogotá",
+    "precio_por_noche": 705000,
+    "habitaciones_disponibles": 103,
+    "calificacion": 2.4
+  },
+  {
+    "id": 48,
+    "imagen": "https://picsum.photos/seed/hotel48/600/400",
+    "nombre": "Hotel Sereno Hotel & Spa",
+    "descripcion": "Hotel de categoría superior en Bogotá con piscina, spa, restaurante gourmet y todas las comodidades para una experiencia premium.",
+    "ciudad": "Bogotá",
+    "precio_por_noche": 741000,
+    "habitaciones_disponibles": 88,
+    "calificacion": 2.5
+  },
+  {
+    "id": 49,
+    "imagen": "https://picsum.photos/seed/hotel49/600/400",
+    "nombre": "Hotel Cristal Lodge",
+    "descripcion": "Con más de 20 años de experiencia en hospitalidad, nuestro hotel en Armenia es sinónimo de calidad, confianza y servicio excepcional.",
+    "ciudad": "Armenia",
+    "precio_por_noche": 690000,
+    "habitaciones_disponibles": 80,
+    "calificacion": 3.9
+  },
+  {
+    "id": 50,
+    "imagen": "https://picsum.photos/seed/hotel50/600/400",
+    "nombre": "Hotel Paraíso Hotel",
+    "descripcion": "Descubre el encanto y la elegancia de nuestro hotel en Bucaramanga. Habitaciones espaciosas, desayuno incluido y atención de lujo.",
+    "ciudad": "Bucaramanga",
+    "precio_por_noche": 237000,
+    "habitaciones_disponibles": 30,
+    "calificacion": 1.3
+  },
+  {
+    "id": 51,
+    "imagen": "https://picsum.photos/seed/hotel51/600/400",
+    "nombre": "Hotel Selva Suites",
+    "descripcion": "Disfruta de vistas panorámicas espectaculares y habitaciones elegantemente decoradas en Montería. Perfecto para una estadía inolvidable.",
+    "ciudad": "Montería",
+    "precio_por_noche": 458000,
+    "habitaciones_disponibles": 5,
+    "calificacion": 4.2
+  },
+  {
+    "id": 52,
+    "imagen": "https://picsum.photos/seed/hotel52/600/400",
+    "nombre": "Hotel Elite Collection",
+    "descripcion": "Situado en pleno centro de Tunja, ofrecemos la combinación perfecta entre comodidad, estilo y accesibilidad a los principales atractivos.",
+    "ciudad": "Tunja",
+    "precio_por_noche": 777000,
+    "habitaciones_disponibles": 67,
+    "calificacion": 2.8
+  },
+  {
+    "id": 53,
+    "imagen": "https://picsum.photos/seed/hotel53/600/400",
+    "nombre": "Hotel Paraíso Hotel Boutique",
+    "descripcion": "Descubre el encanto y la elegancia de nuestro hotel en Bogotá. Habitaciones espaciosas, desayuno incluido y atención de lujo.",
+    "ciudad": "Bogotá",
+    "precio_por_noche": 236000,
+    "habitaciones_disponibles": 87,
+    "calificacion": 4.5
+  },
+  {
+    "id": 54,
+    "imagen": "https://picsum.photos/seed/hotel54/600/400",
+    "nombre": "Hotel Elite Boutique Hotel",
+    "descripcion": "Tu mejor opción en Bogotá para negocios o vacaciones. Contamos con modernas instalaciones, wifi de alta velocidad y servicio 24/7.",
+    "ciudad": "Bogotá",
+    "precio_por_noche": 473000,
+    "habitaciones_disponibles": 31,
+    "calificacion": 1.1
+  },
+  {
+    "id": 55,
+    "imagen": "https://picsum.photos/seed/hotel55/600/400",
+    "nombre": "Hotel Azul Collection",
+    "descripcion": "Con más de 20 años de experiencia en hospitalidad, nuestro hotel en Valledupar es sinónimo de calidad, confianza y servicio excepcional.",
+    "ciudad": "Valledupar",
+    "precio_por_noche": 305000,
+    "habitaciones_disponibles": 5,
+    "calificacion": 1.3
+  },
+  {
+    "id": 56,
+    "imagen": "https://picsum.photos/seed/hotel56/600/400",
+    "nombre": "Hotel Quinta Hotel",
+    "descripcion": "Encantador hotel ubicado en la zona más exclusiva de Santa Marta, combinando arquitectura moderna con el calor de la cultura local.",
+    "ciudad": "Santa Marta",
+    "precio_por_noche": 532000,
+    "habitaciones_disponibles": 95,
+    "calificacion": 4.9
+  },
+  {
+    "id": 57,
+    "imagen": "https://picsum.photos/seed/hotel57/600/400",
+    "nombre": "Hotel Esmeralda Hotel",
+    "descripcion": "Hotel boutique en Neiva con diseño único y exclusivo. Cada habitación cuenta una historia diferente en un ambiente íntimo y sofisticado.",
+    "ciudad": "Neiva",
+    "precio_por_noche": 235000,
+    "habitaciones_disponibles": 114,
+    "calificacion": 1.3
+  },
+  {
+    "id": 58,
+    "imagen": "https://picsum.photos/seed/hotel58/600/400",
+    "nombre": "Hotel Caribe Collection",
+    "descripcion": "Descubre el encanto y la elegancia de nuestro hotel en Ibagué. Habitaciones espaciosas, desayuno incluido y atención de lujo.",
+    "ciudad": "Ibagué",
+    "precio_por_noche": 675000,
+    "habitaciones_disponibles": 47,
+    "calificacion": 1.9
+  },
+  {
+    "id": 59,
+    "imagen": "https://picsum.photos/seed/hotel59/600/400",
+    "nombre": "Hotel Mirador Collection",
+    "descripcion": "Descubre el encanto y la elegancia de nuestro hotel en Santa Marta. Habitaciones espaciosas, desayuno incluido y atención de lujo.",
+    "ciudad": "Santa Marta",
+    "precio_por_noche": 773000,
+    "habitaciones_disponibles": 70,
+    "calificacion": 1.8
+  },
+  {
+    "id": 60,
+    "imagen": "https://picsum.photos/seed/hotel60/600/400",
+    "nombre": "Hotel Pacific Hotel Boutique",
+    "descripcion": "Experimenta la hospitalidad colombiana en su máxima expresión. Ubicado estratégicamente en Riohacha, ideal para viajeros de negocios y turismo.",
+    "ciudad": "Riohacha",
+    "precio_por_noche": 776000,
+    "habitaciones_disponibles": 36,
+    "calificacion": 1.2
+  },
+  {
+    "id": 61,
+    "imagen": "https://picsum.photos/seed/hotel61/600/400",
+    "nombre": "Hotel Royal Suites",
+    "descripcion": "Experimenta la hospitalidad colombiana en su máxima expresión. Ubicado estratégicamente en Leticia, ideal para viajeros de negocios y turismo.",
+    "ciudad": "Leticia",
+    "precio_por_noche": 492000,
+    "habitaciones_disponibles": 68,
+    "calificacion": 3.1
+  },
+  {
+    "id": 62,
+    "imagen": "https://picsum.photos/seed/hotel62/600/400",
+    "nombre": "Hotel Esmeralda Collection",
+    "descripcion": "Hotel boutique en Pereira con diseño único y exclusivo. Cada habitación cuenta una historia diferente en un ambiente íntimo y sofisticado.",
+    "ciudad": "Pereira",
+    "precio_por_noche": 714000,
+    "habitaciones_disponibles": 77,
+    "calificacion": 2.6
+  },
+  {
+    "id": 63,
+    "imagen": "https://picsum.photos/seed/hotel63/600/400",
+    "nombre": "Hotel Real Suites",
+    "descripcion": "Un refugio de lujo y confort en el corazón de Cúcuta, con instalaciones de primera clase y atención personalizada.",
+    "ciudad": "Cúcuta",
+    "precio_por_noche": 772000,
+    "habitaciones_disponibles": 65,
+    "calificacion": 1.6
+  },
+  {
+    "id": 64,
+    "imagen": "https://picsum.photos/seed/hotel64/600/400",
+    "nombre": "Hotel Cielo Collection",
+    "descripcion": "Con más de 20 años de experiencia en hospitalidad, nuestro hotel en Barranquilla es sinónimo de calidad, confianza y servicio excepcional.",
+    "ciudad": "Barranquilla",
+    "precio_por_noche": 800000,
+    "habitaciones_disponibles": 22,
+    "calificacion": 2.5
+  },
+  {
+    "id": 65,
+    "imagen": "https://picsum.photos/seed/hotel65/600/400",
+    "nombre": "Hotel Tropical Inn",
+    "descripcion": "Disfruta de vistas panorámicas espectaculares y habitaciones elegantemente decoradas en San Andrés. Perfecto para una estadía inolvidable.",
+    "ciudad": "San Andrés",
+    "precio_por_noche": 609000,
+    "habitaciones_disponibles": 94,
+    "calificacion": 1.2
+  },
+  {
+    "id": 66,
+    "imagen": "https://picsum.photos/seed/hotel66/600/400",
+    "nombre": "Hotel Cristal Collection",
+    "descripcion": "Con más de 20 años de experiencia en hospitalidad, nuestro hotel en Cartagena es sinónimo de calidad, confianza y servicio excepcional.",
+    "ciudad": "Cartagena",
+    "precio_por_noche": 643000,
+    "habitaciones_disponibles": 84,
+    "calificacion": 3.7
+  },
+  {
+    "id": 67,
+    "imagen": "https://picsum.photos/seed/hotel67/600/400",
+    "nombre": "Hotel Andino Lodge",
+    "descripcion": "Descubre el encanto y la elegancia de nuestro hotel en Montería. Habitaciones espaciosas, desayuno incluido y atención de lujo.",
+    "ciudad": "Montería",
+    "precio_por_noche": 571000,
+    "habitaciones_disponibles": 9,
+    "calificacion": 4.1
+  },
+  {
+    "id": 68,
+    "imagen": "https://picsum.photos/seed/hotel68/600/400",
+    "nombre": "Hotel Andino Hotel",
+    "descripcion": "Un refugio de lujo y confort en el corazón de Florencia, con instalaciones de primera clase y atención personalizada.",
+    "ciudad": "Florencia",
+    "precio_por_noche": 349000,
+    "habitaciones_disponibles": 24,
+    "calificacion": 1.4
+  },
+  {
+    "id": 69,
+    "imagen": "https://picsum.photos/seed/hotel69/600/400",
+    "nombre": "Hotel Nativo Collection",
+    "descripcion": "Descubre el encanto y la elegancia de nuestro hotel en San Andrés. Habitaciones espaciosas, desayuno incluido y atención de lujo.",
+    "ciudad": "San Andrés",
+    "precio_por_noche": 249000,
+    "habitaciones_disponibles": 11,
+    "calificacion": 3.0
+  },
+  {
+    "id": 70,
+    "imagen": "https://picsum.photos/seed/hotel70/600/400",
+    "nombre": "Hotel Colonial Collection",
+    "descripcion": "Un refugio de lujo y confort en el corazón de Cartagena, con instalaciones de primera clase y atención personalizada.",
+    "ciudad": "Cartagena",
+    "precio_por_noche": 263000,
+    "habitaciones_disponibles": 32,
+    "calificacion": 4.7
+  },
+  {
+    "id": 71,
+    "imagen": "https://picsum.photos/seed/hotel71/600/400",
+    "nombre": "Hotel Selva Hotel Boutique",
+    "descripcion": "Descubre el encanto y la elegancia de nuestro hotel en Santa Marta. Habitaciones espaciosas, desayuno incluido y atención de lujo.",
+    "ciudad": "Santa Marta",
+    "precio_por_noche": 488000,
+    "habitaciones_disponibles": 46,
+    "calificacion": 2.3
+  },
+  {
+    "id": 72,
+    "imagen": "https://picsum.photos/seed/hotel72/600/400",
+    "nombre": "Hotel Hacienda Boutique Hotel",
+    "descripcion": "Experimenta la hospitalidad colombiana en su máxima expresión. Ubicado estratégicamente en Cali, ideal para viajeros de negocios y turismo.",
+    "ciudad": "Cali",
+    "precio_por_noche": 326000,
+    "habitaciones_disponibles": 13,
+    "calificacion": 2.3
+  },
+  {
+    "id": 73,
+    "imagen": "https://picsum.photos/seed/hotel73/600/400",
+    "nombre": "Hotel Dorado Hotel",
+    "descripcion": "Hotel de categoría superior en Sincelejo con piscina, spa, restaurante gourmet y todas las comodidades para una experiencia premium.",
+    "ciudad": "Sincelejo",
+    "precio_por_noche": 311000,
+    "habitaciones_disponibles": 71,
+    "calificacion": 4.2
+  },
+  {
+    "id": 74,
+    "imagen": "https://picsum.photos/seed/hotel74/600/400",
+    "nombre": "Hotel Royal Boutique Hotel",
+    "descripcion": "Un refugio de lujo y confort en el corazón de Cali, con instalaciones de primera clase y atención personalizada.",
+    "ciudad": "Cali",
+    "precio_por_noche": 570000,
+    "habitaciones_disponibles": 66,
+    "calificacion": 2.8
+  },
+  {
+    "id": 75,
+    "imagen": "https://picsum.photos/seed/hotel75/600/400",
+    "nombre": "Hotel Real Hotel & Resort",
+    "descripcion": "Encantador hotel ubicado en la zona más exclusiva de Cartagena, combinando arquitectura moderna con el calor de la cultura local.",
+    "ciudad": "Cartagena",
+    "precio_por_noche": 695000,
+    "habitaciones_disponibles": 8,
+    "calificacion": 2.4
+  },
+  {
+    "id": 76,
+    "imagen": "https://picsum.photos/seed/hotel76/600/400",
+    "nombre": "Hotel Dorado Hotel Boutique",
+    "descripcion": "Disfruta de vistas panorámicas espectaculares y habitaciones elegantemente decoradas en Barranquilla. Perfecto para una estadía inolvidable.",
+    "ciudad": "Barranquilla",
+    "precio_por_noche": 783000,
+    "habitaciones_disponibles": 52,
+    "calificacion": 3.2
+  },
+  {
+    "id": 77,
+    "imagen": "https://picsum.photos/seed/hotel77/600/400",
+    "nombre": "Hotel Sunrise Resort",
+    "descripcion": "Disfruta de vistas panorámicas espectaculares y habitaciones elegantemente decoradas en Popayán. Perfecto para una estadía inolvidable.",
+    "ciudad": "Popayán",
+    "precio_por_noche": 154000,
+    "habitaciones_disponibles": 112,
+    "calificacion": 4.2
+  },
+  {
+    "id": 78,
+    "imagen": "https://picsum.photos/seed/hotel78/600/400",
+    "nombre": "Hotel Real Hotel",
+    "descripcion": "Disfruta de vistas panorámicas espectaculares y habitaciones elegantemente decoradas en Bucaramanga. Perfecto para una estadía inolvidable.",
+    "ciudad": "Bucaramanga",
+    "precio_por_noche": 230000,
+    "habitaciones_disponibles": 105,
+    "calificacion": 2.3
+  },
+  {
+    "id": 79,
+    "imagen": "https://picsum.photos/seed/hotel79/600/400",
+    "nombre": "Hotel Andino Inn",
+    "descripcion": "Situado en pleno centro de Cúcuta, ofrecemos la combinación perfecta entre comodidad, estilo y accesibilidad a los principales atractivos.",
+    "ciudad": "Cúcuta",
+    "precio_por_noche": 221000,
+    "habitaciones_disponibles": 21,
+    "calificacion": 1.3
+  },
+  {
+    "id": 80,
+    "imagen": "https://picsum.photos/seed/hotel80/600/400",
+    "nombre": "Hotel Elite Inn",
+    "descripcion": "Encantador hotel ubicado en la zona más exclusiva de Montería, combinando arquitectura moderna con el calor de la cultura local.",
+    "ciudad": "Montería",
+    "precio_por_noche": 321000,
+    "habitaciones_disponibles": 33,
+    "calificacion": 3.1
+  },
+  {
+    "id": 81,
+    "imagen": "https://picsum.photos/seed/hotel81/600/400",
+    "nombre": "Hotel Imperial Hotel & Spa",
+    "descripcion": "Con más de 20 años de experiencia en hospitalidad, nuestro hotel en Quibdó es sinónimo de calidad, confianza y servicio excepcional.",
+    "ciudad": "Quibdó",
+    "precio_por_noche": 567000,
+    "habitaciones_disponibles": 65,
+    "calificacion": 4.3
+  },
+  {
+    "id": 82,
+    "imagen": "https://picsum.photos/seed/hotel82/600/400",
+    "nombre": "Hotel Sereno Hotel Boutique",
+    "descripcion": "Con más de 20 años de experiencia en hospitalidad, nuestro hotel en Cali es sinónimo de calidad, confianza y servicio excepcional.",
+    "ciudad": "Cali",
+    "precio_por_noche": 441000,
+    "habitaciones_disponibles": 96,
+    "calificacion": 3.0
+  },
+  {
+    "id": 83,
+    "imagen": "https://picsum.photos/seed/hotel83/600/400",
+    "nombre": "Hotel Hacienda Suites",
+    "descripcion": "Situado en pleno centro de Armenia, ofrecemos la combinación perfecta entre comodidad, estilo y accesibilidad a los principales atractivos.",
+    "ciudad": "Armenia",
+    "precio_por_noche": 171000,
+    "habitaciones_disponibles": 40,
+    "calificacion": 4.3
+  },
+  {
+    "id": 84,
+    "imagen": "https://picsum.photos/seed/hotel84/600/400",
+    "nombre": "Hotel Luxury Hotel & Spa",
+    "descripcion": "Hotel boutique en Popayán con diseño único y exclusivo. Cada habitación cuenta una historia diferente en un ambiente íntimo y sofisticado.",
+    "ciudad": "Popayán",
+    "precio_por_noche": 656000,
+    "habitaciones_disponibles": 11,
+    "calificacion": 2.9
+  },
+  {
+    "id": 85,
+    "imagen": "https://picsum.photos/seed/hotel85/600/400",
+    "nombre": "Hotel Coral Hotel & Resort",
+    "descripcion": "Situado en pleno centro de Bucaramanga, ofrecemos la combinación perfecta entre comodidad, estilo y accesibilidad a los principales atractivos.",
+    "ciudad": "Bucaramanga",
+    "precio_por_noche": 82000,
+    "habitaciones_disponibles": 117,
+    "calificacion": 1.1
+  },
+  {
+    "id": 86,
+    "imagen": "https://picsum.photos/seed/hotel86/600/400",
+    "nombre": "Hotel Grand Lodge",
+    "descripcion": "Disfruta de vistas panorámicas espectaculares y habitaciones elegantemente decoradas en Leticia. Perfecto para una estadía inolvidable.",
+    "ciudad": "Leticia",
+    "precio_por_noche": 562000,
+    "habitaciones_disponibles": 71,
+    "calificacion": 2.3
+  },
+  {
+    "id": 87,
+    "imagen": "https://picsum.photos/seed/hotel87/600/400",
+    "nombre": "Hotel Imperial Hotel Boutique",
+    "descripcion": "Hotel de categoría superior en Villavicencio con piscina, spa, restaurante gourmet y todas las comodidades para una experiencia premium.",
+    "ciudad": "Villavicencio",
+    "precio_por_noche": 483000,
+    "habitaciones_disponibles": 82,
+    "calificacion": 1.4
+  },
+  {
+    "id": 88,
+    "imagen": "https://picsum.photos/seed/hotel88/600/400",
+    "nombre": "Hotel Colonial Hotel",
+    "descripcion": "Experimenta la hospitalidad colombiana en su máxima expresión. Ubicado estratégicamente en Riohacha, ideal para viajeros de negocios y turismo.",
+    "ciudad": "Riohacha",
+    "precio_por_noche": 468000,
+    "habitaciones_disponibles": 19,
+    "calificacion": 1.1
+  },
+  {
+    "id": 89,
+    "imagen": "https://picsum.photos/seed/hotel89/600/400",
+    "nombre": "Hotel Esmeralda Suites",
+    "descripcion": "Hotel boutique en Bogotá con diseño único y exclusivo. Cada habitación cuenta una historia diferente en un ambiente íntimo y sofisticado.",
+    "ciudad": "Bogotá",
+    "precio_por_noche": 265000,
+    "habitaciones_disponibles": 55,
+    "calificacion": 2.2
+  },
+  {
+    "id": 90,
+    "imagen": "https://picsum.photos/seed/hotel90/600/400",
+    "nombre": "Hotel Nativo Suites",
+    "descripcion": "Descubre el encanto y la elegancia de nuestro hotel en Armenia. Habitaciones espaciosas, desayuno incluido y atención de lujo.",
+    "ciudad": "Armenia",
+    "precio_por_noche": 406000,
+    "habitaciones_disponibles": 55,
+    "calificacion": 1.8
+  },
+  {
+    "id": 91,
+    "imagen": "https://picsum.photos/seed/hotel91/600/400",
+    "nombre": "Hotel Vista Inn",
+    "descripcion": "Tu mejor opción en Bucaramanga para negocios o vacaciones. Contamos con modernas instalaciones, wifi de alta velocidad y servicio 24/7.",
+    "ciudad": "Bucaramanga",
+    "precio_por_noche": 382000,
+    "habitaciones_disponibles": 8,
+    "calificacion": 2.5
+  },
+  {
+    "id": 92,
+    "imagen": "https://picsum.photos/seed/hotel92/600/400",
+    "nombre": "Hotel Boutique Collection",
+    "descripcion": "Hotel boutique en Montería con diseño único y exclusivo. Cada habitación cuenta una historia diferente en un ambiente íntimo y sofisticado.",
+    "ciudad": "Montería",
+    "precio_por_noche": 815000,
+    "habitaciones_disponibles": 21,
+    "calificacion": 1.7
+  },
+  {
+    "id": 93,
+    "imagen": "https://picsum.photos/seed/hotel93/600/400",
+    "nombre": "Hotel Dorado Boutique Hotel",
+    "descripcion": "Hotel de categoría superior en Medellín con piscina, spa, restaurante gourmet y todas las comodidades para una experiencia premium.",
+    "ciudad": "Medellín",
+    "precio_por_noche": 140000,
+    "habitaciones_disponibles": 10,
+    "calificacion": 2.7
+  },
+  {
+    "id": 94,
+    "imagen": "https://picsum.photos/seed/hotel94/600/400",
+    "nombre": "Hotel Andino Suites",
+    "descripcion": "Descubre el encanto y la elegancia de nuestro hotel en Montería. Habitaciones espaciosas, desayuno incluido y atención de lujo.",
+    "ciudad": "Montería",
+    "precio_por_noche": 379000,
+    "habitaciones_disponibles": 24,
+    "calificacion": 1.4
+  },
+  {
+    "id": 95,
+    "imagen": "https://picsum.photos/seed/hotel95/600/400",
+    "nombre": "Hotel Royal Hotel & Spa",
+    "descripcion": "Encantador hotel ubicado en la zona más exclusiva de Pereira, combinando arquitectura moderna con el calor de la cultura local.",
+    "ciudad": "Pereira",
+    "precio_por_noche": 758000,
+    "habitaciones_disponibles": 19,
+    "calificacion": 3.8
+  },
+  {
+    "id": 96,
+    "imagen": "https://picsum.photos/seed/hotel96/600/400",
+    "nombre": "Hotel Dorado Hotel & Spa",
+    "descripcion": "Descubre el encanto y la elegancia de nuestro hotel en Medellín. Habitaciones espaciosas, desayuno incluido y atención de lujo.",
+    "ciudad": "Medellín",
+    "precio_por_noche": 813000,
+    "habitaciones_disponibles": 55,
+    "calificacion": 3.1
+  },
+  {
+    "id": 97,
+    "imagen": "https://picsum.photos/seed/hotel97/600/400",
+    "nombre": "Hotel Sereno Collection",
+    "descripcion": "Un refugio de lujo y confort en el corazón de Manizales, con instalaciones de primera clase y atención personalizada.",
+    "ciudad": "Manizales",
+    "precio_por_noche": 708000,
+    "habitaciones_disponibles": 46,
+    "calificacion": 4.5
+  },
+  {
+    "id": 98,
+    "imagen": "https://picsum.photos/seed/hotel98/600/400",
+    "nombre": "Hotel Elite Hotel & Resort",
+    "descripcion": "Hotel de categoría superior en Cartagena con piscina, spa, restaurante gourmet y todas las comodidades para una experiencia premium.",
+    "ciudad": "Cartagena",
+    "precio_por_noche": 135000,
+    "habitaciones_disponibles": 13,
+    "calificacion": 2.6
+  },
+  {
+    "id": 99,
+    "imagen": "https://picsum.photos/seed/hotel99/600/400",
+    "nombre": "Hotel Selva Hotel & Spa",
+    "descripcion": "Un refugio de lujo y confort en el corazón de Ibagué, con instalaciones de primera clase y atención personalizada.",
+    "ciudad": "Ibagué",
+    "precio_por_noche": 294000,
+    "habitaciones_disponibles": 35,
+    "calificacion": 1.9
+  },
+  {
+    "id": 100,
+    "imagen": "https://picsum.photos/seed/hotel100/600/400",
+    "nombre": "Hotel Boutique Boutique Hotel",
+    "descripcion": "Un refugio de lujo y confort en el corazón de Santa Marta, con instalaciones de primera clase y atención personalizada.",
+    "ciudad": "Santa Marta",
+    "precio_por_noche": 451000,
+    "habitaciones_disponibles": 57,
+    "calificacion": 2.4
+  }
+]
